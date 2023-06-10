@@ -1,11 +1,11 @@
 let handler = async(m, { conn, text, participants }) => {
   let teks = `⋙ *TAGALL* ⋘
-\n *${text ? text : 'By Putbotz'}*\n\n`
+\n *${text ? text : 'By 4riessss'}*\n\n`
 		      	for (let mem of participants) {
 		            teks += `│◦❒ @${mem.id.split('@')[0]}\n`
 				}
                 teks += `
-TagAll Members By wa.me/601169466091`
+TagAll Members By wa.me/601127240988`
                 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
 }
 handler.help = ['tagall <pesan>']
