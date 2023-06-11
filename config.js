@@ -4,35 +4,35 @@ Penjelasan selanjutnya adalah untuk mengisi variabel global.mongo, yang merupaka
 **/
 
 
-global.owner = ['601127240988','60165669237','01115351387','01137759884']  
-global.mods = ['601127240988'] 
-global.prems = ['601127240988']
-global.nameowner = '4riesssszBot'
-global.numberowner = '601127240988' 
-global.mail = '4riesssz@support.com' 
-global.dana = '601127240988'
-global.pulsa = '601127240988'
-global.gopay = '601127240988'
-global.namebot = '4riesssszBot'
+global.owner = ['60199714550','60165669237','01115351387','01137759884']  
+global.mods = ['60199714550'] 
+global.prems = ['60199714550']
+global.nameowner = 'Mars'
+global.numberowner = '60199714550' 
+global.mail = 'MarsBotz@support.com' 
+global.dana = '60199714550'
+global.pulsa = '60199714550'
+global.gopay = '60199714550'
+global.namebot = 'MarsBotz'
 global.gc = 'https://chat.whatsapp.com/KGfJA0oNnrDIEwtr8To3y6'
 global.web = 'https://github.com/OrewaHanz'
 global.instagram = 'https://instagram.com/hanzoooox'
-global.wm = '© Ariessssz'
+global.wm = '© MarsBotz'
 global.watermark = wm
-global.wm2 = '⫹⫺ 4riessssz'
-global.wm3 = '© 4riessssz'
-global.wm4 = '© 4riessssz'
+global.wm2 = '⫹⫺ MarsBotz'
+global.wm3 = '© MarsBotz'
+global.wm4 = '© MarsBotz'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made by'
-global.author = '4rieszBot'
+global.author = 'MarsBotz'
 global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
 
-global.btc = 'a5dzYQzy' //Daftar terlebih dahulu https://api.botcahx.live
-global.lann = 'VnrpBINn' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
+global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
+global.lann = 'YOUR_APIKEY_HERE' //Note Key Ini Hanya Bertahan Selama 4 Day Sejak Config.js update! lebih baik register di https://api.betabotz.me
 global.APIs = { 
   tio: 'https://api.botcahx.live',
   alpis: 'https://alpis.eu.org'
