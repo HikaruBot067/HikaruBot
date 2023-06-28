@@ -4,31 +4,31 @@ Penjelasan selanjutnya adalah untuk mengisi variabel global.mongo, yang merupaka
 **/
 
 
-global.owner = ['60199714550','60165669237','01115351387','01137759884']  
-global.mods = ['60199714550'] 
-global.prems = ['60199714550']
-global.nameowner = 'Mars'
-global.numberowner = '60199714550' 
-global.mail = 'MarsBotz@support.com' 
-global.dana = '60199714550'
-global.pulsa = '60199714550'
-global.gopay = '60199714550'
-global.namebot = 'MarsBotz'
-global.gc = 'https://chat.whatsapp.com/KGfJA0oNnrDIEwtr8To3y6'
+global.owner = ['601151300328']  
+global.mods = ['601151300328'] 
+global.prems = ['601151300328']
+global.nameowner = 'Yuki'
+global.numberowner = '601151300328' 
+global.mail = 'HikaruBot@support.com' 
+global.dana = '601151300328'
+global.pulsa = '601151300328'
+global.gopay = '601151300328'
+global.namebot = 'HikaruBot'
+global.gc = 'https://chat.whatsapp.com/LRAJoY9Xm458KCJjiI2Q7c'
 global.web = 'https://github.com/OrewaHanz'
 global.instagram = 'https://instagram.com/hanzoooox'
-global.wm = '© MarsBotz'
+global.wm = '© HikaruBot'
 global.watermark = wm
-global.wm2 = '⫹⫺ MarsBotz'
-global.wm3 = '© MarsBotz'
-global.wm4 = '© MarsBotz'
+global.wm2 = '⫹⫺ HikaruBot'
+global.wm3 = '© HikaruBot'
+global.wm4 = '© HikaruBot'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made by'
-global.author = 'MarsBotz'
+global.author = 'HikaruBot'
 global.alpiskey = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://alpis.eu.org
 
 global.btc = 'YOUR_APIKEY_HERE' //Daftar terlebih dahulu https://api.botcahx.live
